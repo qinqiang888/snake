@@ -1,0 +1,29 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: '微软雅黑';
+	background:black;
+	background-size: cover;
+
+}
+.changjing{
+	width: 600px;
+	height: 600px;
+	border: 1px solid black;
+	border-right: none;
+	border-bottom: none;
+	margin: 20px auto;
+	box-shadow: 0  0  10px #111  inset;
+	/*background:url(../images/U4512P115DT20120323120255.jpg) no-repeat;*/
+
+}
+.block{
+	background-color: white;
+	/*background-size: cover;*/
+	width: 59px;
+	height: 59px;
+	opacity: 0.8;
+	float: left;
+	margin:0 1px 1px 0;
+	-webkit-transform:translateZ(90deg);
+}
